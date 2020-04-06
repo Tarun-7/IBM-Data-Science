@@ -1,2 +1,2 @@
 # IBM-Data-Science
-These projects are done while undertaking coursera IBM data science certification.
+This repository contains assignments that were done as part of IBM Data science Certification on Coursera.
