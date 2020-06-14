@@ -1,6 +1,7 @@
 # IBM-Data-Science Certification on Coursera
 
-Git repository for IBM Professional Certification on Data Science
+Git repository for IBM Professional Certification on Data Science.
+
 Course is available at: https://www.coursera.org/professional-certificates/ibm-data-science
 
 This repository contains the assignements and projects that I've done during the IBM Professional Certification on Data Science offered at Coursera.
