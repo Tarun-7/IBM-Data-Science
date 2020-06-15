@@ -17,7 +17,7 @@ This Project involves Clustering Neighborhoods of London to identify suitable lo
 - Folium library is used to visualize the clusters.
 
 ### Results:
-! [Result](https://github.com/Tarun-7/IBM-Data-Science/blob/master/Applied%20Data%20Science%20Capstone/Week%20-5/Results.PNG)
+![Result](https://github.com/Tarun-7/IBM-Data-Science/blob/master/Applied%20Data%20Science%20Capstone/Week%20-5/Results.PNG)
              
 
 ### Author
