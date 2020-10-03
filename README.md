@@ -20,7 +20,7 @@ There are 9 Courses in this Professional Certificate. The first three courses ar
 
 
 ## Certificate:
-![](Coursera EMVXBWCFP93V.pdf)
+![](https://github.com/Tarun-7/IBM-Data-Science/blob/master/Coursera%20EMVXBWCFP93V.pdf)
 
 Verify at: [Coursera](https://coursera.org/share/5b51a2cfe291d1a1deb33e08cf6ad9d1)
 
