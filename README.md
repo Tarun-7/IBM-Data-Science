@@ -19,6 +19,10 @@ There are 9 Courses in this Professional Certificate. The first three courses ar
 #### [9. Applied Data Science Capstone](https://github.com/Tarun-7/IBM-Data-Science/tree/master/Applied%20Data%20Science%20Capstone)
 
 
+## Certificate:
+![](Coursera EMVXBWCFP93V.pdf)
+
+Verify at: [Coursera](https://coursera.org/share/5b51a2cfe291d1a1deb33e08cf6ad9d1)
 
 ## Author:
 Tarun Sunkara | [LinkedIn](https://www.linkedin.com/in/tarunkumar-sunkara/)
